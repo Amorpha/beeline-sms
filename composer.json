@@ -1,0 +1,17 @@
+{
+    "name": "amorpha/beeline-sms",
+    "description": "Package for working with the beeline message sending service",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Amorpha\\BeelineSms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roman Kalinger"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
